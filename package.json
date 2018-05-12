@@ -1,0 +1,28 @@
+{
+  "name": "sample-calc",
+  "version": "1.0.0",
+  "description": "sample calc for emi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil4224/test-npm-sample.git"
+  },
+  "keywords": [
+    "enter",
+    "loanAmount",
+    "tenure",
+    "rateOfInterest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil4224/test-npm-sample/issues"
+  },
+  "homepage": "https://github.com/anil4224/test-npm-sample#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
